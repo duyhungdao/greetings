@@ -1,3 +1,3 @@
-module github.com/duyhungdao/go1
+module github.com/duyhungdao/greetings
 
 go 1.16
